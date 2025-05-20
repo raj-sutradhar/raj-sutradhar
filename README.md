@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="linkedin" />
 </a>
   <a href="https://github.com/raj-sutradhar" target="_blank">
-    <img src="https://img.shields.io/github/follower/raj-sutradhar?logo=github&style=for-the-badge" alt="github" />
+    <img src="https://img.shields.io/github/followers/raj-sutradhar?logo=github&style=for-the-badge" alt="github" />
   </a>
 </p>
 
