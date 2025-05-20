@@ -9,9 +9,9 @@
 </div>
 
 <p align="center">
-  <a href="https://twitter.com/raj-sutradhar" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/raj-sutradhar?logo=twitter&style=for-the-badge" alt="twitter" />
-  </a>
+ <a href="https://www.linkedin.com/in/raj-sutradhar-ba9527286/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="linkedin" />
+</a>
   <a href="https://github.com/raj-sutradhar" target="_blank">
     <img src="https://img.shields.io/github/followers/raj-sutradhar?logo=github&style=for-the-badge" alt="github" />
   </a>
