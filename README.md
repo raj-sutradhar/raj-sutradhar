@@ -136,11 +136,11 @@ const developer = {
 
 ---
 
-## 📝 Latest Projects
+<!--## 📝 Latest Projects-->
 <!-- PROJECT-LIST:START -->
-- [E-Commerce Website](https://rajsutradhar.vercel.app/projects/ecommerce)
-- [Task Management App](https://rajsutradhar.vercel.app/projects/taskmanager)
-- [Portfolio Website](https://rajsutradhar.vercel.app)
+<!-- - [E-Commerce Website](https://rajsutradhar.vercel.app/projects/ecommerce)-->
+<!-- - [Task Management App](https://rajsutradhar.vercel.app/projects/taskmanager)-->
+<!-- - [Portfolio Website](https://rajsutradhar.vercel.app)-->
 <!-- PROJECT-LIST:END -->
 
 ---
