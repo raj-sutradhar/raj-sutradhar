@@ -151,22 +151,22 @@ const developer = {
   <a href="[https://linkedin.com/in/raj-sutradhar](https://www.linkedin.com/in/raj-sutradhar-ba9527286/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/raj-sutradhar">
+<!--   <a href="https://twitter.com/raj-sutradhar">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://dev.to/raj-sutradhar">
+  </a> -->
+<!--   <a href="https://dev.to/raj-sutradhar">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
-  </a>
-  <a href="https://medium.com/@raj-sutradhar">
+  </a> -->
+<!--   <a href="https://medium.com/@raj-sutradhar">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://stackoverflow.com/users/youruserid">
+  </a> -->
+<!--   <a href="https://stackoverflow.com/users/youruserid">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
-  </a>
+  </a> -->
   <a href="mailto:sutradharraj704@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://raj-sutradhar.github.io">
+  <a href="https://rajsutradhar.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </div>
