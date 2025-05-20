@@ -92,10 +92,10 @@ const developer = {
   <img src="https://github-profile-trophy.vercel.app/?username=raj-sutradhar&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raj-sutradhar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-sutradhar&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raj-sutradhar&theme=tokyonight" alt="GitHub Streak" />
@@ -107,24 +107,24 @@ const developer = {
 
 ---
 
-## 📌 Pinned Repositories
+<!-- ## 📌 Pinned Repositories -->
 
-<div align="center">
+<!--<div align="center">
   <a href="https://github.com/raj-sutradhar/portfolio">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raj-sutradhar&repo=portfolio&theme=tokyonight" />
   </a>
   <a href="https://github.com/raj-sutradhar/ecommerce-app">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raj-sutradhar&repo=ecommerce-app&theme=tokyonight" />
   </a>
-</div>
-<div align="center">
+</div> -->
+<!-- <div align="center">
   <a href="https://github.com/raj-sutradhar/task-manager">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raj-sutradhar&repo=task-manager&theme=tokyonight" />
   </a>
   <a href="https://github.com/raj-sutradhar/blog-app">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raj-sutradhar&repo=blog-app&theme=tokyonight" />
   </a>
-</div>
+</div> -->
 
 ---
 
