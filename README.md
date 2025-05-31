@@ -42,10 +42,10 @@ const developer = {
 - 🌱 I'm currently learning **React Native and NextJS**
 - 👯 I'm looking to collaborate on **Open Source Web Development Projects**
 - 🤝 I'm looking for help with **Advanced React Patterns**
-- 👨‍💻 All of my projects are available at **[rajsutradhar.vercel.app](https://rajsutradhar.vercel.app)**
+- 👨‍💻 All of my projects are available at **[rajsutradhar.vercel.app](https://rajdev-gamma.vercel.app/)**
 - 💬 Ask me about **React, Express, MongoDB, and Web Development**
 - 📫 How to reach me: **sutradharraj704@gmail.com**
-- 📄 Know about my experiences: **[My Portfolio](https://rajsutradhar.vercel.app)**
+- 📄 Know about my experiences: **[My Portfolio](https://rajdev-gamma.vercel.app/)**
 - ⚡ Fun fact: **I started coding because I wanted to build my own website!**
 
 ---
@@ -167,7 +167,7 @@ const developer = {
   <a href="mailto:sutradharraj704@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://rajsutradhar.vercel.app">
+  <a href="https://rajdev-gamma.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </div>
