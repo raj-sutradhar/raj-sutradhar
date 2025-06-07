@@ -67,14 +67,14 @@ const raj = {
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=raj-sutradhar&theme=radical&border=2E97F7&border_radius=10" alt="GitHub Streak" />
 📈 Contribution Map
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=raj-sutradhar&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=2E97F7" alt="Activity Graph" /></div>
-
+---
 
 ## 🌟 Daily Dev Mantra
 
 ```markdown
 "I don't just write code, I craft digital experiences that solve real problems. Every line of code is an opportunity to create something extraordinary. Today I will build something that didn't exist yesterday."
 ```
-
+---
 ## 📬 Command Center
 
 <div align="center">
