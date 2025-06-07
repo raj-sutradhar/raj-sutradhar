@@ -140,6 +140,8 @@ const raj = {
 
 <br>
 
+<div align="center">
+
 <a href="https://rajdev-gamma.vercel.app/">
   <img src="https://img.shields.io/badge/SEE_MY_WORK-%23FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
@@ -150,14 +152,24 @@ const raj = {
 
 </div>
 
+<br/>
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,100:FF6B6B&height=100&section=footer&animation=twinkling" /> </div><p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=raj-sutradhar.raj-sutradhar" alt="Visitor Count" /> <img src="https://img.shields.io/badge/MADE_WITH-PASSION-%23FF6B6B?style=flat" alt="Made with Passion" /> </p><details> <summary>✨ Special Thanks</summary>
-GitHub Community for inspiration
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,100:FF6B6B&height=100&section=footer&animation=twinkling" />
+</div>
 
-VS Code for being my digital canvas
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=raj-sutradhar.raj-sutradhar" alt="Visitor Count" />
+  <img src="https://img.shields.io/badge/MADE_WITH-PASSION-%23FF6B6B?style=flat" alt="Made with Passion" />
+</p>
 
-Coffee for keeping me awake during late coding sessions
+<details>
+  <summary>✨ Special Thanks</summary>
 
-Open Source for making the world a better place
+- GitHub Community for inspiration  
+- VS Code for being my digital canvas  
+- Coffee for keeping me awake during late coding sessions  
+- Open Source for making the world a better place  
 
 </details>
+
