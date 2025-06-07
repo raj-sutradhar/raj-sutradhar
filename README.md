@@ -73,7 +73,7 @@ const raj = {
 📈 Contribution Map
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=raj-sutradhar&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=2E97F7" alt="Activity Graph" /></div>
 
-🚀 Featured Arsenal
+## 🚀 Featured Arsenal
 <div align="center"> <a href="https://github.com/raj-sutradhar/portfolio"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raj-sutradhar&repo=portfolio&theme=radical&border_color=4ECDC4" /> </a> <a href="https://github.com/raj-sutradhar/ecommerce-app"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raj-sutradhar&repo=ecommerce-app&theme=radical&border_color=FF6B6B" /> </a> <a href="https://github.com/raj-sutradhar/task-manager"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raj-sutradhar&repo=task-manager&theme=radical&border_color=2E97F7" /> </a> <a href="https://github.com/raj-sutradhar/blog-app"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raj-sutradhar&repo=blog-app&theme=radical&border_color=42b883" /> </a> </div>
 ## 🏆 Achievement Wall
 
