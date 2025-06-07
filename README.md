@@ -39,18 +39,13 @@ const raj = {
   technologies: {
     frontEnd: {
       js: ["React", "Redux", "NextJS"],
-      css: ["Tailwind", "Bootstrap", "SASS"]
+      css: ["Tailwind", "Bootstrap"]
     },
     backEnd: {
-      js: ["Node", "Express", "MERN"],
-      python: ["Django", "Flask"]
+      js: ["Node", "Express"]
     },
     databases: ["MongoDB", "MySQL", "Firebase"],
-    devOps: ["Git", "GitHub", "Docker", "CI/CD"],
-    mobile: ["React Native"],
-    testing: ["Jest", "Cypress"]
   },
-  architecture: ["SPA", "PWA", "Microservices", "Serverless"],
   currentFocus: "Building responsive web applications with React & Node",
   funFact: "I once coded for 36 hours straight to solve a tricky animation bug!"
 };
@@ -74,16 +69,7 @@ const raj = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=raj-sutradhar&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=2E97F7" alt="Activity Graph" /></div>
 
 
-## 🏆 Achievement Wall
-
-- 🥇 Built 15+ production-ready web applications
-- 🚀 Contributed to 5+ open source projects
-- 📱 Developed 3 cross-platform mobile apps with React Native
-- 🎯 Completed 100+ hours of advanced algorithm training
-- 🔥 Won 3 hackathons in the past year
-- 📚 Authored technical articles with 10K+ reads
-
-🌟 Daily Dev Mantra
+## 🌟 Daily Dev Mantra
 
 ```markdown
 "I don't just write code, I craft digital experiences that solve real problems. Every line of code is an opportunity to create something extraordinary. Today I will build something that didn't exist yesterday."
