@@ -75,6 +75,7 @@ const raj = {
 
 ## 🚀 Featured Arsenal
 <div align="center"> <a href="https://github.com/raj-sutradhar/DarkChapter"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raj-sutradhar&repo=portfolio&theme=radical&border_color=4ECDC4" /> </a> <a href="https://github.com/raj-sutradhar/ecommerce-app"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raj-sutradhar&repo=ecommerce-app&theme=radical&border_color=FF6B6B" /> </a> <a href="https://github.com/raj-sutradhar/task-manager"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raj-sutradhar&repo=task-manager&theme=radical&border_color=2E97F7" /> </a> <a href="https://github.com/raj-sutradhar/blog-app"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raj-sutradhar&repo=blog-app&theme=radical&border_color=42b883" /> </a> </div>
+
 ## 🏆 Achievement Wall
 
 - 🥇 Built 15+ production-ready web applications
@@ -85,9 +86,9 @@ const raj = {
 - 📚 Authored technical articles with 10K+ reads
 
 🌟 Daily Dev Mantra
-"I don't just write code, I craft digital experiences that solve real problems. Every line of code is an opportunity to create something extraordinary. Today I will build something that didn't exist yesterday."
+```bash "I don't just write code, I craft digital experiences that solve real problems. Every line of code is an opportunity to create something extraordinary. Today I will build something that didn't exist yesterday."```
 
-📬 Command Center
+## 📬 Command Center
 <div align="center">
 Channel	Status	Action
 Portfolio	🚀 Operational	Visit HQ
