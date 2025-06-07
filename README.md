@@ -51,30 +51,57 @@ const raj = {
 };
 ```
 ## 🧠 Knowledge Matrix
-🛠️ Core Technologies
-<div align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,redux,nextjs,tailwind,typescript" /> </div>
-🧪 Supporting Technologies
-<div align="center"> <img src="https://skillicons.dev/icons?i=git,github,firebase,docker,figma,postman,vscode,vercel" /> </div>
-📚 Learning Pipeline
-<div align="center"> <img src="https://skillicons.dev/icons?i=graphql,aws,kubernetes,flutter,threejs,electron,rust" /> </div>
-📊 GitHub War Room
+
+### 🛠️ Core Technologies  
 <div align="center">
-🏆 Achievement Badges
-<img src="https://github-profile-trophy.vercel.app/?username=raj-sutradhar&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-⚔️ Battle Stats
-<table> <tr> <td> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raj-sutradhar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&border_color=2E97F7" /> </td> <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-sutradhar&layout=compact&langs_count=8&theme=radical&border_radius=10&border_color=4ECDC4" /> </td> </tr> </table>
-🔥 Streak & Activity
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raj-sutradhar&theme=radical&border=2E97F7&border_radius=10" alt="GitHub Streak" />
-📈 Contribution Map
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raj-sutradhar&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=2E97F7" alt="Activity Graph" /></div>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,redux,nextjs,tailwind,typescript" />
+</div>
+
+### 🧪 Supporting Technologies  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,firebase,docker,figma,postman,vscode,vercel" />
+</div>
+
+### 📚 Learning Pipeline  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=graphql,aws,kubernetes,flutter,threejs,electron,rust" />
+</div>
+
 ---
+
+### 📊 GitHub War Room  
+<div align="center">
+
+#### 🏆 Achievement Badges  
+<img src="https://github-profile-trophy.vercel.app/?username=raj-sutradhar&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+
+#### ⚔️ Battle Stats  
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raj-sutradhar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&border_color=2E97F7" />
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-sutradhar&layout=compact&langs_count=8&theme=radical&border_radius=10&border_color=4ECDC4" />
+    </td>
+  </tr>
+</table>
+
+#### 🔥 Streak & Activity  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raj-sutradhar&theme=radical&border=2E97F7&border_radius=10" alt="GitHub Streak" />
+
+#### 📈 Contribution Map  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raj-sutradhar&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=2E97F7" alt="Activity Graph" />
+
+</div>
+
 
 ## 🌟 Daily Dev Mantra
 
 ```markdown
 "I don't just write code, I craft digital experiences that solve real problems. Every line of code is an opportunity to create something extraordinary. Today I will build something that didn't exist yesterday."
 ```
----
+
 ## 📬 Command Center
 
 <div align="center">
