@@ -97,6 +97,7 @@ Email	📬 Active	Send Transmission
 LinkedIn	🤝 Accepting Connections	Join Network
 GitHub	👨‍💻 Coding in Progress	Review Codebase
 <br> <a href="https://rajdev-gamma.vercel.app/"> <img src="https://img.shields.io/badge/SEE_MY_WORK-%23FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> <a href="https://github.com/raj-sutradhar?tab=repositories"> <img src="https://img.shields.io/badge/EXPLORE_PROJECTS-%2342b883?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
+
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,100:FF6B6B&height=100&section=footer&animation=twinkling" /> </div><p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=raj-sutradhar.raj-sutradhar" alt="Visitor Count" /> <img src="https://img.shields.io/badge/MADE_WITH-PASSION-%23FF6B6B?style=flat" alt="Made with Passion" /> </p><details> <summary>✨ Special Thanks</summary>
 GitHub Community for inspiration
 
