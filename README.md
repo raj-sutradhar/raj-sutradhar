@@ -96,11 +96,15 @@ const raj = {
 </div>
 
 
-## 🌟 Daily Dev Mantra
+<h3 align="center">🌟 Daily Dev Mantra 🌟</h3>
 
-```markdown
-"I don't just write code, I craft digital experiences that solve real problems. Every line of code is an opportunity to create something extraordinary. Today I will build something that didn't exist yesterday."
-```
+<p align="center">
+  <strong><em>“I don't just write code,</em></strong> 💻<br/>
+  <strong><em>I craft digital experiences that solve real problems.”</em></strong> 🚀<br/><br/>
+  <code>Every line of code = opportunity to innovate</code><br/>
+  <code>Today I will build something that didn't exist yesterday.</code>
+</p>
+
 
 ## 📬 Command Center
 
