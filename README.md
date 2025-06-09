@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&section=header&text=Raj%20Sutradhar&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 
-<h1 align="center">🚀 Full Stack Developer | Open Source Enthusiast | Tech Innovator 🚀</h1>
+<h1 align="center">🚀 Full Stack Developer | Open Source Enthusiast | Tech Innovator </h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=26&pause=1000&color=2E97F7&center=true&vCenter=true&width=500&height=60&lines=Turning+ideas+into+reality;MERN+Stack+Expert;Always+learning+something+new;Clean+Code+Advocate;Problem+Solver" alt="Typing SVG" />
